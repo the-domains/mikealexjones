@@ -1,0 +1,23 @@
+name: mikealexjones
+favicon: null
+layout_spectrum: 0.14205280737951398
+typography_spectrum: 0.23203495214693248
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4866276113316417
+  lightness: 0.8800407841335982
+  saturation: 0.3663632101379335
+  rhythmicContrast: 0.2772774458862841
+purpose: []
